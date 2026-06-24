@@ -1,0 +1,2 @@
+# vnzai
+tool ai
